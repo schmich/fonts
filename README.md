@@ -24,6 +24,7 @@
   - Not free. 
 - [Clear Sans](https://01.org/clear-sans)
   - *Add image.*
+- [Arimo](https://www.google.com/fonts/specimen/Arimo)
 
 ## Development
 - *Add monospace development fonts.*
